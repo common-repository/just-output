@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Just Output\n"
+"POT-Creation-Date: 2024-01-24 15:57+0900\n"
+"PO-Revision-Date: 2024-01-24 15:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: just-output.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin.php:12
+msgctxt "quicktag"
+msgid "Just Output"
+msgstr "単純出力"
+
+#: admin.php:12
+msgid "Disables the automatically inserted p and br tags."
+msgstr "自動挿入されるpとbrタグを無効化します。"
+
+#. Plugin Name of the plugin/theme
+msgid "Just Output"
+msgstr "Just Output"
+
+#. Plugin URI of the plugin/theme
+msgid "https://dev.back2nature.jp/en/just-output/"
+msgstr "https://dev.back2nature.jp/just-output/"
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress automatically inserts p and br tags, but disables them in "
+"shortcodes."
+msgstr ""
+"WordPressはpタグとbrタグを自動的に挿入しますが、ショートコード内では無効に"
+"します。"
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr "やーまん"
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr "https://back2nature.jp/"
+
+#~ msgid "Disable the automatically inserted p and br tags in the shortcode."
+#~ msgstr "自動挿入されるpとbrタグをショートコードの中では無効にします。"
